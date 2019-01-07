@@ -12,6 +12,7 @@
         <module>webflux</module>
         <module>webmvc</module>
         <module>restTemplate-as-caller</module>
+        <module>webClient-as-caller</module>
     </modules>
 
     <parent>
