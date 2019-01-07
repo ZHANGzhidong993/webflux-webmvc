@@ -14,6 +14,11 @@ import java.time.Duration;
 @RestController
 public class HelloController {
 
+    @GetMapping("/hello")
+    public Mono<String> hello() {
+        return Mono.just("Welcome to reactive world ~");
+    }
+
     @GetMapping("/hello/{latency}")
     public Mono<String> hello(@PathVariable int latency) {
 
