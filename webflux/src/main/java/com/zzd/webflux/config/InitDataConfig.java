@@ -1,6 +1,6 @@
-package com.myhexin.webflux.config;
+package com.zzd.webflux.config;
 
-import com.myhexin.webflux.model.MyEvent;
+import com.zzd.webflux.model.MyEvent;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

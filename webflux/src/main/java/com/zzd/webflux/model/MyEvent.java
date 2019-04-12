@@ -1,4 +1,4 @@
-package com.myhexin.webflux.model;
+package com.zzd.webflux.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

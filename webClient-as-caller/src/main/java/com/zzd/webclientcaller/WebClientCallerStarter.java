@@ -1,4 +1,4 @@
-package com.myhexin.resttemplatecaller;
+package com.zzd.webclientcaller;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -8,9 +8,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @since 2019/1/7
  */
 @SpringBootApplication
-public class RestTemplateCallerStarter {
+public class WebClientCallerStarter {
 
     public static void main(String[] args) {
-        SpringApplication.run(RestTemplateCallerStarter.class);
+        SpringApplication.run(WebClientCallerStarter.class);
     }
 }

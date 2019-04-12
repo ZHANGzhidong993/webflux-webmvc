@@ -1,6 +1,6 @@
-package com.myhexin.webflux.repository;
+package com.zzd.webflux.repository;
 
-import com.myhexin.webflux.model.MyEvent;
+import com.zzd.webflux.model.MyEvent;
 import org.springframework.data.mongodb.repository.ReactiveMongoRepository;
 import org.springframework.data.mongodb.repository.Tailable;
 import reactor.core.publisher.Flux;

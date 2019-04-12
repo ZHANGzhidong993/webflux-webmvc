@@ -1,4 +1,4 @@
-package com.myhexin.webclientcaller.controller;
+package com.zzd.webclientcaller.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

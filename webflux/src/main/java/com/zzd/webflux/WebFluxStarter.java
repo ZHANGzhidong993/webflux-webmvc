@@ -1,16 +1,16 @@
-package com.myhexin.webclientcaller;
+package com.zzd.webflux;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * @author zhangzhidong
- * @since 2019/1/7
+ * @since 2019/1/2
  */
 @SpringBootApplication
-public class WebClientCallerStarter {
+public class WebFluxStarter {
 
     public static void main(String[] args) {
-        SpringApplication.run(WebClientCallerStarter.class);
+        SpringApplication.run(WebFluxStarter.class);
     }
 }

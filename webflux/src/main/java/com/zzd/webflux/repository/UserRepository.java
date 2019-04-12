@@ -1,6 +1,6 @@
-package com.myhexin.webflux.repository;
+package com.zzd.webflux.repository;
 
-import com.myhexin.webflux.model.User;
+import com.zzd.webflux.model.User;
 import org.springframework.data.repository.reactive.ReactiveCrudRepository;
 import reactor.core.publisher.Mono;
 

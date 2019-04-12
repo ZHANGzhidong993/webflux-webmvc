@@ -1,7 +1,7 @@
-package com.myhexin.webflux.controller;
+package com.zzd.webflux.controller;
 
-import com.myhexin.webflux.model.User;
-import com.myhexin.webflux.service.UserService;
+import com.zzd.webflux.model.User;
+import com.zzd.webflux.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;

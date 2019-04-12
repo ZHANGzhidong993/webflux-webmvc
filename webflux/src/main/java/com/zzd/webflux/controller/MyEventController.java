@@ -1,7 +1,7 @@
-package com.myhexin.webflux.controller;
+package com.zzd.webflux.controller;
 
-import com.myhexin.webflux.model.MyEvent;
-import com.myhexin.webflux.repository.MyEventRepository;
+import com.zzd.webflux.model.MyEvent;
+import com.zzd.webflux.repository.MyEventRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;

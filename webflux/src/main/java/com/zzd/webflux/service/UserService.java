@@ -1,7 +1,7 @@
-package com.myhexin.webflux.service;
+package com.zzd.webflux.service;
 
-import com.myhexin.webflux.model.User;
-import com.myhexin.webflux.repository.UserRepository;
+import com.zzd.webflux.model.User;
+import com.zzd.webflux.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import reactor.core.publisher.Flux;

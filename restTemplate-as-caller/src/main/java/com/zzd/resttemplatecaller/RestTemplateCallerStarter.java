@@ -1,16 +1,16 @@
-package com.myhexin.webflux;
+package com.zzd.resttemplatecaller;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * @author zhangzhidong
- * @since 2019/1/2
+ * @since 2019/1/7
  */
 @SpringBootApplication
-public class WebFluxStarter {
+public class RestTemplateCallerStarter {
 
     public static void main(String[] args) {
-        SpringApplication.run(WebFluxStarter.class);
+        SpringApplication.run(RestTemplateCallerStarter.class);
     }
 }

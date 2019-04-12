@@ -1,4 +1,4 @@
-package com.myhexin.resttemplatecaller.controller;
+package com.zzd.resttemplatecaller.controller;
 
 import org.apache.http.impl.client.HttpClientBuilder;
 import org.apache.http.impl.conn.PoolingHttpClientConnectionManager;
